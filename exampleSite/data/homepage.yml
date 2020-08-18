@@ -95,14 +95,10 @@ testimonial:
     image: images/testimonial/client-1.png
     designation: Programador
     content: Estudiante 2 del querido Liceo de Costa Rica xd
-  - name: Jessica Julie
+  - name: Julissa Sanchez
     image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    designation: Coordinadora
+    content: Es la responsable de este proyecto uwu
 clients_logo_slider:
   enable: false
   item:
