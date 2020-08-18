@@ -87,10 +87,10 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: ''
+  - name: José Andrés
     image: ''
-    designation: ''
-    content: ''
+    designation: Gestor de Datos
+    content: 'Es el buen José Andrés '
   - name: Kevin Pineda
     image: ''
     designation: No c
@@ -131,5 +131,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
