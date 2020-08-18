@@ -81,20 +81,16 @@ service:
     highlighted: false
 portfolio:
   enable: true
-  title: Portfolio
+  title: Comunidad
   item_show: "5"
 testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Jesica Gomez
+  - name: Kevin Pérez Quesada
     image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    designation: Diseñador y Programador
+    content: Estudiante del Liceo de Costa en Bachillerato Internacional
   - name: Shirley Scot
     image: images/testimonial/client-1.png
     designation: CEO, Funder
