@@ -87,6 +87,14 @@ testimonial:
   enable: true
   title: Testimonials
   item:
+  - name: ''
+    image: ''
+    designation: ''
+    content: ''
+  - name: Kevin Pineda
+    image: ''
+    designation: No c
+    content: Estudiante fantasma del Liceo de Costa Rica
   - name: Kevin Pérez Quesada
     image: images/testimonial/client-1.png
     designation: Diseñador y Programador
